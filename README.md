@@ -40,5 +40,4 @@
 
 <h3>Lapras Score</h3>
 <!--START_SECTION:lapras-card-->
-<img src="https://lapras-card-generator.vercel.app/api/svg?e=2.8&b=2.85&i=2.48&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=ja" />
 <!--END_SECTION:lapras-card-->
