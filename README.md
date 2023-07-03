@@ -38,6 +38,3 @@
 <a href="https://qiita.com/he23inw3" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 </p>
 
-<h3>Lapras Score</h3>
-<!--START_SECTION:lapras-card-->
-<!--END_SECTION:lapras-card-->
