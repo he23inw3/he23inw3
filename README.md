@@ -18,6 +18,7 @@
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=style=flat-square&logo=mysql&logoColor=white" />
 <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=style=flat-square&logo=postgresql&logoColor=white" />
 <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" />
+<img alt="kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka" />
 <br>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
