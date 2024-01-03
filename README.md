@@ -36,5 +36,6 @@
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/he23inw3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://qiita.com/he23inw3" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+<a href="https://qiita.com/he23inw3" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+<a href="https://connpass.com/user/he23inw3/" target="_blank"><img alt="conpass" src="https://connpass.com/static/img/api/connpass_logo_1.png" width="78px" height="28px" /></a> <!-- https://connpass.com/about/api/ -->
 </p>
