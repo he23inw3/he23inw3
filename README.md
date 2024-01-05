@@ -2,6 +2,7 @@
 <p>Welcome to my page!</br> I'm he23inw3, Software Engineer from <b>Hokkaido, Japan</b>.</p>
 
 # Recent posts
+- ![](img/qiita.png) [今まで投稿したQiita記事を振り返りたい](https://qiita.com/he23inw3/items/c7e5c30743b5263e9acc)
 - ![](img/qiita.png) [LINE + ChatGPTで友達(チャットボット)を作る](https://qiita.com/he23inw3/items/9a5f733b84d1b5ce2397)
 - ![](img/qiita.png) [Dockerを使ってGCPをローカルでエミュレートする(GCS版)](https://qiita.com/he23inw3/items/02ad426c4b0fb817498b)
 
