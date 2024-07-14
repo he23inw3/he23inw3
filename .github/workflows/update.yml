@@ -1,9 +1,8 @@
-name: Update badges
-
+name: PR Checks
 on:
   schedule:
-    # Runs at 2am UTC
-    - cron: "0 2 * * *"
+    - cron: "0 0 * * *"
+
 jobs:
   update-credly-badges:
     name: Update Readme with badges
