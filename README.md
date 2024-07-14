@@ -47,6 +47,10 @@
 <img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <hr />
 <img src="https://github.com/he23inw3/he23inw3/assets/27355202/d902013c-d566-46d0-af30-a11828372ec9" width="80%" height="80%" alt="とりあえず暫定ではっつけ。paizaのスコアボード。" />
+<hr />
+<!-- credly badges -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 </p>
 
 <h3>Where to find me</h3>
