@@ -51,7 +51,6 @@
   
 <!-- credly badges -->
 <!--START_SECTION:badges-->
-[![Professional Cloud Architect Certification](https://images.credly.com/size/110x110/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](http://www.credly.com/badges/13fe5d56-3f53-4e51-9dc9-a9360a20752a "Professional Cloud Architect Certification")
 <!--END_SECTION:badges-->
 </p>
 
