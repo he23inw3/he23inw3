@@ -51,7 +51,8 @@
   
 <!-- credly badges -->
 <!--START_SECTION:badges-->
-[![Professional Cloud Architect Certification](https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](http://www.credly.com/badges/13fe5d56-3f53-4e51-9dc9-a9360a20752a "Professional Cloud Architect Certification")
+[![Professional Cloud Developer Certification](https://images.credly.com/size/100x100/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7ca03102-fc30-43f3-811e-b935e4fc77ec "Professional Cloud Developer Certification")
+[![Professional Cloud Architect Certification](https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](http://www.credly.com/badges/cfd958a3-a752-4eeb-96c8-40d931846351 "Professional Cloud Architect Certification")
 <!--END_SECTION:badges-->
 </p>
 
