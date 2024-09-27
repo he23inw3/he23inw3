@@ -48,13 +48,6 @@
 <hr />
 <img src="https://github.com/he23inw3/he23inw3/assets/27355202/d902013c-d566-46d0-af30-a11828372ec9" width="80%" height="80%" alt="とりあえず暫定ではっつけ。paizaのスコアボード。" />
 <hr />
-  
-<!-- credly badges -->
-<!--START_SECTION:badges-->
-[![Professional Cloud Developer Certification](https://images.credly.com/size/100x100/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7ca03102-fc30-43f3-811e-b935e4fc77ec "Professional Cloud Developer Certification")
-[![Professional Cloud Architect Certification](https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](http://www.credly.com/badges/cfd958a3-a752-4eeb-96c8-40d931846351 "Professional Cloud Architect Certification")
-<!--END_SECTION:badges-->
-</p>
 
 <h3>Where to find me</h3>
 <p>
