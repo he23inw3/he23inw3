@@ -49,6 +49,9 @@
 <img src="https://github.com/he23inw3/he23inw3/assets/27355202/d902013c-d566-46d0-af30-a11828372ec9" width="80%" height="80%" alt="とりあえず暫定ではっつけ。paizaのスコアボード。" />
 <hr />
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/he23inw3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
