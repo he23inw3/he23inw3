@@ -13,4 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: hiroki-omura
-          BADGE_SIZE: 100
+          BADGE_SIZE: 80
