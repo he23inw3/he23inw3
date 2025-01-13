@@ -50,8 +50,9 @@
 <hr />
 
 <!--START_SECTION:badges-->
-[![Professional Cloud Developer Certification](https://images.credly.com/size/80x80/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7ca03102-fc30-43f3-811e-b935e4fc77ec "Professional Cloud Developer Certification")
-[![Professional Cloud Architect Certification](https://images.credly.com/size/80x80/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png)](http://www.credly.com/badges/cfd958a3-a752-4eeb-96c8-40d931846351 "Professional Cloud Architect Certification")
+[![Professional Data Engineer](https://images.credly.com/size/80x80/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png)](http://www.credly.com/badges/972162d3-f3f1-4530-807a-43e6efbd7131 "Professional Data Engineer")
+[![Professional Cloud Developer](https://images.credly.com/size/80x80/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png)](http://www.credly.com/badges/1af84d9d-e033-4efc-b19b-aea9c700466d "Professional Cloud Developer")
+[![Professional Cloud Architect](https://images.credly.com/size/80x80/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](http://www.credly.com/badges/141bb5c8-231e-4356-943a-7b66576b1309 "Professional Cloud Architect")
 <!--END_SECTION:badges-->
 
 <h3>Where to find me</h3>
