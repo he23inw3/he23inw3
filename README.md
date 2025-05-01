@@ -46,8 +46,6 @@
 <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 <hr />
-<img src="https://github.com/he23inw3/he23inw3/assets/27355202/d902013c-d566-46d0-af30-a11828372ec9" width="80%" height="80%" alt="とりあえず暫定ではっつけ。paizaのスコアボード。" />
-<hr />
 
 <!--START_SECTION:badges-->
 [![Professional Data Engineer](https://images.credly.com/size/80x80/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png)](http://www.credly.com/badges/972162d3-f3f1-4530-807a-43e6efbd7131 "Professional Data Engineer")
