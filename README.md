@@ -45,6 +45,12 @@
 <!-- cloud -->
 <img alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 <img alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+
+# Lapras
+<!--START_SECTION:lapras-card-->
+<p align="center"><a href="https://lapras.com/public/c9196dfcc50f4121a11c54b92b52e130" target="_blank" rel="noopener noreferrer"><img alt="c9196dfcc50f4121a11c54b92b52e130のLAPRASでのスコアは次の通りです: エンジニアリング: undefined / 5.0, ビジネス: undefined / 5.0, インフルエンス: undefined / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 11/30/2025, 5:22:42 AM</p>
+<!--END_SECTION:lapras-card-->
 <hr />
 
 <!--START_SECTION:badges-->
@@ -52,11 +58,7 @@
 <a href="https://www.credly.com/badges/1af84d9d-e033-4efc-b19b-aea9c700466d" title="Professional Cloud Developer"><img src="https://images.credly.com/size/80x80/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png" alt="Professional Cloud Developer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/141bb5c8-231e-4356-943a-7b66576b1309" title="Professional Cloud Architect"><img src="https://images.credly.com/size/80x80/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png" alt="Professional Cloud Architect" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-
-<!--START_SECTION:lapras-card-->
-<p align="center"><a href="https://lapras.com/public/c9196dfcc50f4121a11c54b92b52e130" target="_blank" rel="noopener noreferrer"><img alt="c9196dfcc50f4121a11c54b92b52e130のLAPRASでのスコアは次の通りです: エンジニアリング: undefined / 5.0, ビジネス: undefined / 5.0, インフルエンス: undefined / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 11/30/2025, 5:22:42 AM</p>
-<!--END_SECTION:lapras-card-->
+<hr />
 
 <h3>Where to find me</h3>
 <p>
