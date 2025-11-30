@@ -53,6 +53,9 @@
 [![Professional Cloud Architect](https://images.credly.com/size/80x80/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](http://www.credly.com/badges/141bb5c8-231e-4356-943a-7b66576b1309 "Professional Cloud Architect")
 <!--END_SECTION:badges-->
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/he23inw3" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
