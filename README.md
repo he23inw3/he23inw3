@@ -54,6 +54,8 @@
 <!--END_SECTION:badges-->
 
 <!--START_SECTION:lapras-card-->
+<p align="center"><a href="https://lapras.com/public/c9196dfcc50f4121a11c54b92b52e130" target="_blank" rel="noopener noreferrer"><img alt="c9196dfcc50f4121a11c54b92b52e130のLAPRASでのスコアは次の通りです: エンジニアリング: undefined / 5.0, ビジネス: undefined / 5.0, インフルエンス: undefined / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=undefined&b=undefined&i=undefined&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 11/30/2025, 5:22:42 AM</p>
 <!--END_SECTION:lapras-card-->
 
 <h3>Where to find me</h3>
