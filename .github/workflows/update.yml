@@ -14,3 +14,13 @@ jobs:
         with:       
           CREDLY_USER: hiroki-omura
           BADGE_SIZE: 80
+  update-card:
+    name: LAPRAS Card
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kawamataryo/lapras-card-readme@main
+        with:
+          SHARE_ID: "c9196dfcc50f4121a11c54b92b52e130"
+          LANG: "ja"
+          IS_CENTER: "true"
+          UPDATE_TIME: "true"
