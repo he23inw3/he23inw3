@@ -20,7 +20,5 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "c9196dfcc50f4121a11c54b92b52e130"
+          SHARE_ID: "J9QF569"
           LANG: "ja"
-          IS_CENTER: "true"
-          UPDATE_TIME: "true"
