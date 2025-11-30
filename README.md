@@ -53,6 +53,7 @@ Last Updated on 11/30/2025, 5:29:00 AM</p>
 <!--END_SECTION:lapras-card-->
 <hr />
 
+# credly
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/972162d3-f3f1-4530-807a-43e6efbd7131" title="Professional Data Engineer"><img src="https://images.credly.com/size/80x80/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png" alt="Professional Data Engineer" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/1af84d9d-e033-4efc-b19b-aea9c700466d" title="Professional Cloud Developer"><img src="https://images.credly.com/size/80x80/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png" alt="Professional Cloud Developer" width="80" height="80"></a>
