@@ -56,7 +56,7 @@ Last Updated on 6/1/2026, 2:14:51 AM</p>
 <!--START_SECTION:badges-->
 [![Professional Data Engineer](https://images.credly.com/size/80x80/images/d7d0d0f5-ea0b-4b3f-a76f-93934726573d/image.png)](https://www.credly.com/badges/972162d3-f3f1-4530-807a-43e6efbd7131)
 [![Professional Cloud Developer](https://images.credly.com/size/80x80/images/10227907-54b6-466f-a52c-1a26948f0aaf/image.png)](https://www.credly.com/badges/1af84d9d-e033-4efc-b19b-aea9c700466d)
-[![Professional Cloud Architect](https://images.credly.com/size/80x80/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](https://www.credly.com/badges/141bb5c8-231e-4356-943a-7b66576b1309)
+[![Professional Cloud Architect](https://images.credly.com/size/80x80/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png)](https://www.credly.com/badges/8ba3c2ee-d6f1-41d4-82e3-fcf4111a1223)
 <!--END_SECTION:badges-->
 <hr />
 
